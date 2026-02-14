@@ -6,8 +6,20 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sourav Biswas</h1>
-<h3 align="center">💻 CSE Student | 🇧🇩 Bangladesh | 🚀 Passionate Developer</h3>
+
+
+<h1 align="center">
+  <b style="font-size:48px; font-family: 'Fira Code', monospace;">
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" alt="waving hand">, I'm Sourav Biswas
+  </b>
+</h1>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37F706&size=20&width=700&lines=%F0%9F%92%BB+CSE+Student+%7C+%F0%9F%87%A7%F0%9F%87%A9+Bangladesh+%7C+%F0%9F%9A%80+Passionate+Developer" alt="Typing SVG" />
+</p>
+
+
 
 <img align="right" width="300" src="assets/m1.gif">
 
@@ -25,12 +37,21 @@
 
 ### 🌐 Connect With Me
 <p align="left">
+    <a href="mailto:souravbiswas30635@gmail.com" target="_blank" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" width="30" alt="Email" />
+  </a>
 <a href="https://linkedin.com/in/souravbiswas35" target="_blank" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30" alt="LinkedIn" />
 </a>
 <a href="https://fb.com/sourav.biswas.582751" target="_blank" title="Facebook">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" alt="Facebook" />
 </a>
+  <a href="https://github.com/souravbiswas35" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/sourav_biswas.s" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" width="30" alt="Instagram" />
+  </a>
 </p>
 
 ### 🛠️ Technologies I know 
@@ -51,6 +72,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=souravbiswas35&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravbiswas35&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
