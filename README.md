@@ -19,12 +19,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37F706&size=20&width=700&lines=%F0%9F%92%BB+CSE+Student+%7C+%F0%9F%87%A7%F0%9F%87%A9+Bangladesh+%7C+%F0%9F%9A%80+Passionate+Developer" alt="Typing SVG" />
 </p>
 
-
-
 <img align="right" width="300" src="assets/m1.gif">
 
-
-<br> 
 
 ### 🙋‍♂️ About Me
 - 🎓 CSE Student
@@ -33,8 +29,6 @@
 - 🚀 Currently working on real-world projects
 - 📫 Reach me at **souravbiswas30635@gmail.com**
 
-
-<br> 
 
 
 ### 🌐 Connect With Me
@@ -57,7 +51,6 @@
 </p>
 
 
-<br> 
 
 
 ### 🛠️ Technologies I know 
@@ -67,7 +60,6 @@
 | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="C++" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" title="HTML" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="React" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" title="Canva" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind CSS" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="Spring Boot" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" title="Unity" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" title="PyTorch" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" title="TensorFlow" width="30" height="30"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="sklearn" title="Scikit-learn" width="30" height="30"/> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" title="Pandas" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" title="OpenCV" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" title="LaTeX" width="30" height="30"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="Git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="Docker" width="30" height="30"/><br><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" title="Bash/Terminal" width="30" height="30"/></p> |
 
 
-<br> 
 
 ### 📊 GitHub Stats
 
@@ -86,18 +78,14 @@
 </p>
 
 
-<br> 
 
 ### ✍️ Dev Quote
-
 
 <div align="left">
 <i>"Everybody should learn to program a computer, because it teaches you how to think."</i>
 <b>— Steve Jobs</b>
 </div>
-
 <br> 
-
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -108,7 +96,6 @@
   <img src="https://komarev.com/ghpvc/?username=souravbiswas35&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
-<br> 
 
 ---
 
