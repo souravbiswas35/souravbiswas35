@@ -33,20 +33,36 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-    <a href="mailto:souravbiswas30635@gmail.com" target="_blank" title="Email">
+  <a href="mailto:souravbiswas30635@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" width="30" alt="Email" />
   </a>
-<a href="https://linkedin.com/in/souravbiswas35" target="_blank" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30" alt="LinkedIn" />
-</a>
-<a href="https://fb.com/sourav.biswas.582751" target="_blank" title="Facebook">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" alt="Facebook" />
-</a>
+
+  <a href="https://linkedin.com/in/souravbiswas35" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30" alt="LinkedIn" />
+  </a>
+
+  <a href="https://fb.com/sourav.biswas.582751" target="_blank" title="Facebook">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" alt="Facebook" />
+  </a>
+
   <a href="https://github.com/souravbiswas35" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
   </a>
+
   <a href="https://instagram.com/sourav_biswas.s" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" width="30" alt="Instagram" />
+  </a>
+
+  <a href="https://leetcode.com/u/souravbiswas35/" target="_blank" title="LeetCode">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" width="30" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/souravbiswas35" target="_blank" title="HackerRank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="30" width="30" alt="HackerRank"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/souravbiswas35" target="_blank" title="Codeforces">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="30" width="30" alt="Codeforces"/>
   </a>
 </p>
 
