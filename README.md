@@ -64,6 +64,10 @@
   <a href="https://codeforces.com/profile/souravbiswas35" target="_blank" title="Codeforces">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="30" width="30" alt="Codeforces"/>
   </a>
+
+  <a href="https://huggingface.co/profile/souravbiswas35" target="_blank" title="Hugging Face">
+    <img src="https://cdn.simpleicons.org/huggingface/%23FFD21E" height="30" width="30" alt="Hugging Face"/>
+  </a>
 </p>
 
 
