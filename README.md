@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=souravbiswas35&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=souravbiswas35&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 
@@ -95,6 +95,29 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravbiswas35&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
 </p>
 
+
+<!-- ================= NEW: LIVE FEATURES ================= -->
+
+### 🐍 Realistic Animated Snake
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souravbiswas35/souravbiswas35/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souravbiswas35/souravbiswas35/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/souravbiswas35/souravbiswas35/output/github-contribution-grid-snake.svg">
+</picture>
+  
+ <!--<img src="https://raw.githubusercontent.com/souravbiswas35/souravbiswas35/output/snake-neon-light.svg" alt="Realistic slithering snake animation" width="100%" /> -->
+  <!--<img src="assets/snake-neon-light.svg" alt="Realistic slithering snake animation" width="100%" /> -->
+</p>
+
+
+### 🗺️ Live Visitor Badge
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=souravbiswas35.souravbiswas35" alt="Visitor Badge" />
+</p>
+
+<!-- ================= END NEW: LIVE FEATURES ================= -->
 
 
 ### ✍️ Dev Quote
