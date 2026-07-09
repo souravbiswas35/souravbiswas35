@@ -9,12 +9,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Custom Script: Pick a random color from an expanded list
+      - name: Pick a Random Color
+        id: color_picker
+        run: |
+          # Array of 20+ awesome UI-friendly solid colors
+          COLORS=(
+            '#ff00ff' '#00ffff' '#37F706' '#ff0055' '#fdb813' 
+            '#9d00ff' '#ff5733' '#00ffaa' '#ff00a0' '#ffe600' 
+            '#0088ff' '#ff7700' '#bfff00' '#ff007f' '#00ffd5' 
+            '#7b00ff' '#ff0022' '#00ffea' '#ffb833' '#ff00e6'
+            '#ff2a2a' '#00e5ff' '#a200ff' '#ff8c00' '#ff1493'
+          )
+          
+          # Dynamically calculate the array length and pick a random index
+          ARRAY_LENGTH=${#COLORS[@]}
+          RANDOM_INDEX=$(( RANDOM % ARRAY_LENGTH ))
+          SELECTED_COLOR=${COLORS[$RANDOM_INDEX]}
+          
+          # Output the selected color to the next step
+          echo "snake_color=$SELECTED_COLOR" >> $GITHUB_OUTPUT
+
       - uses: Platane/snk@v3
         with:
           github_user_name: souravbiswas35
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ff00ff&color_dots=#ebedf0,#8c96c6,#8856a7,#810f7c,#4d004b
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff00ff&color_dots=#161b22,#0e75b6,#00a884,#28a768,#37F706&color_bg=#0d1117
+            dist/github-contribution-grid-snake.svg?color_snake=${{ steps.color_picker.outputs.snake_color }}&color_dots=#ebedf0,#8c96c6,#8856a7,#810f7c,#4d004b
+            dist/github-contribution-grid-snake-dark.svg?color_snake=${{ steps.color_picker.outputs.snake_color }}&color_dots=#161b22,#0e75b6,#00a884,#28a768,#37F706&color_bg=#0d1117
             
       - uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
