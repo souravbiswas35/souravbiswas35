@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30" alt="LinkedIn" />
   </a>
 
-  <a href="https://fb.com/sourav.biswas.582751" target="_blank" title="Facebook">
+  <a href="https://fb.com/souravbiswas30635" target="_blank" title="Facebook">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" alt="Facebook" />
   </a>
 
@@ -49,7 +49,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
   </a>
 
-  <a href="https://instagram.com/sourav_biswas.s" target="_blank" title="Instagram">
+  <a href="https://instagram.com/souravbiswas30635" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" width="30" alt="Instagram" />
   </a>
 
