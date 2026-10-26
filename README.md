@@ -133,9 +133,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=souravbiswas35&theme=tokyonight" alt="Productive-Time" />
-</div>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-kogise.vercel.app/graph?username=souravbiswas35&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
+</p>
 
 
 ### 👀 Profile Views
